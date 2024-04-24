@@ -9,11 +9,13 @@
 
 - 🌱 I’m currently learning **MERN , Java and LLM**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-keor.onrender.com](https://github.com/rohith-bandi)
+- 👨‍💻 All of my projects are available [here](https://github.com/rohith-bandi)
 
 - 💬 Ask me about **Blockchain - Hyperledger Fabric**
 
 - 📫 How to reach me **bandirohithreddy2@gmail.com**
+
+- 🌐  Know more about me at [My Portfolio](https://portfolio-keor.onrender.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16yMJT7Sb7IzNoDEXADWEecndOka7jspB/view?usp=sharing](https://drive.google.com/file/d/16yMJT7Sb7IzNoDEXADWEecndOka7jspB/view?usp=sharing)
 
