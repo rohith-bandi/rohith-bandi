@@ -1,3 +1,4 @@
+![logo](https://github.com/rohith-bandi/rohith-bandi/blob/main/myphoto.png)
 <h1 align="center">Hi 👋, I'm rohith reddy</h1>
 <h3 align="center">Coding Journey Fueled by Passion: Building Innovative Solutions</h3>
 <img align="right" alt="code" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlrOGxjeTBpcXc3cmJ2NzdyNnE4b3luZ3FxYngwN2NlajZ3cnh6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" >
