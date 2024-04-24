@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN , Java and LLM**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-keor.onrender.com](https://portfolio-keor.onrender.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-keor.onrender.com](https://github.com/rohith-bandi)
 
 - 💬 Ask me about **Blockchain - Hyperledger Fabric**
 
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith-bandi&show_icons=true&locale=en" alt="rohith-bandi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-bandi&" alt="rohith-bandi" /></p>
