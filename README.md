@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Blockchain - Hyperledger Fabric**
 
-- 📫 How to reach me **bandirohithreddy2@gmail.com**
+- 📫 Reach me via email **bandirohithreddy2@gmail.com**
 
 - 🌐  Know more about me at [My Portfolio](https://portfolio-keor.onrender.com)
 
