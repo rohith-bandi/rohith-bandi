@@ -14,8 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/bandi-rohith-reddy-3b7514287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bandi-rohith-reddy-3b7514287" height="30" width="40" /></a>
 <a href="https://instagram.com/rohith_reddy.583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohith_reddy.583" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bandirohith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bandirohith" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bandirohithredd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bandirohithredd1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohith_bandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohith_bandi" height="30" width="40" /></a>
 </p>
 
