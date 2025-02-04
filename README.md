@@ -4,19 +4,11 @@
 <img align="right" src="https://stats.quine.sh/rohith-bandi/github?theme=dark" alt="rohith-bandi's GitHub Stats">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-bandi&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-bandi" /> </p>
 
-- 🔭 I’m currently working on [LLM Project](https://github.com/rohith-bandi/Psephologist_LLM)
-
-- 🌱 I’m currently learning **MERN , Java and LLM**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/rohith-bandi)
-
-- 💬 Ask me about **Blockchain - Hyperledger Fabric**
 
 - 📫 Reach me via email **bandirohithreddy2@gmail.com**
 
 - 🌐  Know more about me at [My Portfolio](https://portfolio-keor.onrender.com)
-
-- 📄 Know about my experiences at [My Resume](https://drive.google.com/file/d/16yMJT7Sb7IzNoDEXADWEecndOka7jspB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
